@@ -29,4 +29,4 @@ OnePod Gerichte:
 | 4. | Rotes Hähnchen Curry | 1 Portion | 5/5 ⭐⭐⭐⭐⭐ |
 | 5. | Thai Pa Naeng mit Hähnchenbrust | 1 Portion | 5/5 ⭐⭐⭐⭐⭐ |
 | 6. | Protein Pasta alla Panna | 1 Portion | 5/5 ⭐⭐⭐⭐⭐ |
-| 7. | Tikka Masala | 1 Portion | 4/5 ⭐⭐⭐⭐⭐ |
+| 7. | Tikka Masala | 1 Portion | 4/5 ⭐⭐⭐⭐ |
